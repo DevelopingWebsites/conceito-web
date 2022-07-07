@@ -1,14 +1,14 @@
 const imagesURL = [
-  "TimePhoto_20220408_105658.jpg",
-  "TimePhoto_20220404_152755.jpg",
-  "Original_TimePhoto_20220427_161656.jpg",
-  "TimePhoto_20220406_143652.jpg",
-  "TimePhoto_20220303_162957.jpg",
-  "TimePhoto_20220217_143112.jpg",
-  "TimePhoto_20220411_155011.jpg",
-  "Original_TimePhoto_20220422_111743.jpg",
-  "TimePhoto_20220408_093604.jpg",
-  "Original_TimePhoto_20220422_111743.jpg",
+  "TimePhoto_20220408_105658.webp",
+  "TimePhoto_20220404_152755.webp",
+  "Original_TimePhoto_20220427_161656.webp",
+  "TimePhoto_20220406_143652.webp",
+  "TimePhoto_20220303_162957.webp",
+  "TimePhoto_20220217_143112.webp",
+  "TimePhoto_20220411_155011.webp",
+  "Original_TimePhoto_20220422_111743.webp",
+  "TimePhoto_20220408_093604.webp",
+  "Original_TimePhoto_20220422_111743.webp",
 ];
 
 const state = {
